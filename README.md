@@ -213,4 +213,4 @@ Heavy Metal Machines is available as a complete free version with all features a
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-12 23:20:08 UTC
+**Last updated:** 2026-10-13 04:23:51 UTC
